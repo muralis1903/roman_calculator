@@ -1,0 +1,9 @@
+<Projects version="2.0">
+	<Project active="1">Calculator_new.cfp</Project>
+	<File active="0">..\..\..\Calculator\Dec_to_Roman.c</File>
+	<File active="0">..\..\..\Calculator\Roman_to_dec.c</File>
+	<File active="0">..\..\..\Calculator\Check_string.c</File>
+	<File active="1">..\..\..\Calculator\Roman_calculator.c</File>
+	<File active="0">..\..\..\Calculator\Roman_to_dec.h</File>
+	<File active="0">..\..\..\Calculator\Dec_to_Roman.h</File>
+</Projects>
