@@ -31,13 +31,16 @@ int Dec_to_roman(int number){
     int j; /* counter */
 
     /* Roman numbers can range between 0 and 5000 */
-    /* if((number <= 0) || (number > 4999)){
 	if(number > 4999){
-         printf("Invalid calculated value. The output exceeds 4999.\n\n");
+         printf("Roman numbers can range between 0 and 5000 only. The output exceeds 4999.\n\n");
          return 1;
-    }
-    */
+	}
+   	else if(number < 1){
+         printf("Roman numbers can range between 0 and 5000 only. The output is 0.\n\n");
+         return 1;
+	}
 
+    
 	/* loop to convert decimal to equavalent roman number */
     while(number != 0){
 
@@ -108,15 +111,15 @@ int Dec_to_roman(int number){
     }
 
 	/* Print the calculated roman char by char */
-    printf("The calculated roman number is: ");
+    printf("\nThe calculated roman number is: ");
     for(j = 0; j < i; j++){
     	if (roman_Number[j] != '~')
 		{
 	    	printf("%c",roman_Number[j]);
          	roman_Number[j] = '~';
     	}
+		
     }
-
 	printf("\n\n");
     return 0;
 
