@@ -1,0 +1,310 @@
+
+
+*********************************
+Starting tests..... 
+*********************************
+
+
+*********************************
+Test Case Number 1 : 
+
+This test checks if Roman numerals consist of the I, V, X, L, C, D and M only.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 2 : 
+
+This test checks if Roman numerals does not consist of A, B, E, F, G, H, J, K, N, O, P, Q, R, S, T, U, W, Y and Z.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 3 : 
+
+This test checks if Roman numerals does not consist of +, -, ~, !, @, #, $, %, ^, &, *, (, ).
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 4 : 
+
+This test checks decimal value of Roman numerals.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 5 : 
+
+This test checks occurence of I, X or C.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 6 : 
+
+This test checks occurence of I, X or C is more than 3 then 
+the functions returns error.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 7 : 
+
+This test checks occurence of I, X or C is more than 3 then and includes other valid Roman numerals then the functions returns error.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 8 : 
+
+This test checks occurence of V, L or D.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 9 : 
+
+This test checks occurence of V, L or D is more than 1 then the functions returns error.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 10 : 
+
+This test checks occurence of V, L or D is more than 1 then and includes other valid Roman numerals then the functions returns error.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 11 : 
+
+This test checks the roman number does not contain decimals.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 12 : 
+
+This test checks the roman number does not contain integers.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 13 : 
+
+This test checks if a lesser numeral is put before abigger, then it means substraction.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Test Case Number 14 : 
+
+This test checks if a lesser numeral is put before abigger, then it means substraction.
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+ Test Pass 
+
+*********************************
+Total Test Cases  : 14
+Tests Cases Passed: 14
+Tests Cases Failed: 0
+*********************************
+
